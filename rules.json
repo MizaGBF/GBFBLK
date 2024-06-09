@@ -16,5 +16,11 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {"urlFilter": "https://prd-game-a-granbluefantasy.akamaized.net/*/sp/shop/common/prt/badge_pickup.png", "initiatorDomains" : ["game.granbluefantasy.jp"], "resourceTypes": ["image"] }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://prd-game-a-granbluefantasy.akamaized.net/*/sp/shop/index/assets/category_title_*.png", "initiatorDomains" : ["game.granbluefantasy.jp"], "resourceTypes": ["image"] }
   }
 ]
