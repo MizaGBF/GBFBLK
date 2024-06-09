@@ -1,0 +1,19 @@
+{
+  "name": "GBF Blocker",
+  "version": "1.0",
+  "manifest_version": 3,
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "ruleset",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  },
+  "permissions": [
+    "declarativeNetRequest"
+  ],
+  "content_security_policy": {},
+  "host_permissions": [
+    "*://game.granbluefantasy.jp/*"
+  ]
+}

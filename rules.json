@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://cdn-connect.mobage.jp/jssdk/mobage-menubar.*.js", "initiatorDomains" : ["game.granbluefantasy.jp"], "resourceTypes": ["script"] }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://prd-game-a-granbluefantasy.akamaized.net/*/sp/shop/index/special_banner/banner_premiumpass.png", "initiatorDomains" : ["game.granbluefantasy.jp"], "resourceTypes": ["image"] }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://prd-game-a-granbluefantasy.akamaized.net/*/sp/shop/common/prt/badge_pickup.png", "initiatorDomains" : ["game.granbluefantasy.jp"], "resourceTypes": ["image"] }
+  }
+]
