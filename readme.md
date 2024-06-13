@@ -11,5 +11,5 @@ Like the [Mobage Sidebar Blocker](https://github.com/MizaGBF/Mobage-Sidebar-Bloc
 Use or modify it at your own risk.
   
 ### Usage  
-Download this repo (Code button > Download ZIP) annd unzip the archive somewhere.  
+Download this repo (Code button > Download ZIP) and unzip the archive somewhere.  
 In a Chromium browser: Extension menu > enable Dev mode > load unpacked > select the folder containing those files.  
