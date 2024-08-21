@@ -10,6 +10,9 @@ Like the [Mobage Sidebar Blocker](https://github.com/MizaGBF/Mobage-Sidebar-Bloc
 ### Disclaimer  
 Use or modify it at your own risk.
   
+### Know issue  
+Blocking the sidebar has the side effect to change the position of pop-ups and such. There is no solution to this issue, beside getting used to this new behavior.  
+  
 ### Usage  
 Download this repo (Code button > Download ZIP) and unzip the archive somewhere.  
 In a Chromium browser: Extension menu > enable Dev mode > load unpacked > select the folder containing those files.  
